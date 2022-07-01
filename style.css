@@ -55,8 +55,9 @@ html {
   left: 0;
   width: 0%;
   height: 0.4rem;
-  transform: translatey(-50%);
+  transform: translateY(-50%);
   z-index: -1;
+  transition: 2s all ease;
 }
 
 .circle {
